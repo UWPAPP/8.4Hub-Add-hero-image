@@ -1,0 +1,23 @@
+﻿@import "/pages/hub/css/basichub.css";
+    
+/*Hero Image*/
+.hero {
+    background-image: url(/resources/poto1.jpg);
+    background-size: cover;
+}
+
+.win-hub-horizontal .hero {
+    width: 400px;
+    height:600px;
+}
+
+.win-hub-horizontal .hero {
+    margin-left: -80px;
+    margin-right: 80px;
+}
+
+.win-hub-section.hero .win-hub-section-header {
+    visibility: hidden;
+}
+
+
